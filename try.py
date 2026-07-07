@@ -1,0 +1,10 @@
+name =input("Enter your name:")
+age = input("Enter your age:")
+country =input("Enter your country:")
+number = input ("enter your number:")
+
+print("\n-----My Profile------")
+print("Enter your name:")
+print("Enter ypur age:")
+print("Enter your country:")
+print("Enter your number:")
